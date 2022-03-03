@@ -1,1 +1,1 @@
-# wtb2-worktime-clock
+WTB2 Worktime Clock
